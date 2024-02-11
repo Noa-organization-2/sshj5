@@ -1,4 +1,4 @@
-= sshj - SSHv2 library for Java
+= sshj - SSHv2 library for Java1
 Jeroen van Erp
 :sshj_groupid: com.hierynomus
 :sshj_version: 0.31.0
